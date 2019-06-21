@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at AHB2BRAM.v(59): always construct contains both blocking and non-blocking assignments File: D:/01_RAM_CUP/00_Cortex_M0_C/hdl/AHB2BRAM.v Line: 59
